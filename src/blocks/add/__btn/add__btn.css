@@ -1,0 +1,9 @@
+.add__btn {
+  border: none;
+  margin: 0;
+  background-color: #e8d2a1;
+  border-radius: 15px;
+  padding: 15px;
+  color: rgb(118, 118, 118);
+  cursor: pointer;
+}

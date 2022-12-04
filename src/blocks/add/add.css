@@ -1,0 +1,16 @@
+.add {
+  max-width: 340px;
+  margin: 0 auto 50px auto;
+  display: flex;
+  justify-content: space-between;
+}
+@media (max-width:515px) {
+  .add{
+    margin-bottom: 30px;
+  }
+}
+@media (max-width:450px) {
+  .add{
+    flex-direction: column;
+  }
+}

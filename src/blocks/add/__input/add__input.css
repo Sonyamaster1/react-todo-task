@@ -1,0 +1,12 @@
+.add__input {
+  outline: none;
+  border: none;
+  background-color: #e8d2a1;
+  border-radius: 15px;
+  padding: 15px;
+}
+@media (max-width: 450px) {
+  .add__input {
+    margin-bottom: 15px;
+  }
+}

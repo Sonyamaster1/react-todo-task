@@ -1,0 +1,12 @@
+.todos__title {
+  font-size: 20px;
+  line-height: 1.3;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 686px) {
+  .todos__title {
+    margin-bottom: 15px;
+  }
+}

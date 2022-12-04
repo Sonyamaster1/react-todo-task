@@ -1,0 +1,31 @@
+.page {
+  margin: 0 auto;
+  max-width: 1400px;
+  padding: 100px 200px;
+  box-sizing: border-box;
+  background-color: #acae8c;
+}
+@media (max-width:1024px) {
+  .page{
+    max-width: 1024px;
+    padding: 90px 150px;
+  }
+}
+@media (max-width:820px) {
+  .page{
+    max-width: 820px;
+    padding: 60px 90px;
+  }
+}
+@media (max-width:686px) {
+  .page{
+    max-width: 686px;
+    padding: 60px 90px;
+  }
+}
+@media (max-width:515px) {
+  .page{
+    max-width: 515px;
+    padding: 30px 60px;
+  }
+}

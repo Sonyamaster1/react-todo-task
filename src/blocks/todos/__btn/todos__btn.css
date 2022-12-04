@@ -1,0 +1,17 @@
+.todos__btn {
+  border: none;
+  background-color: rgba(188, 147, 118, 0.7);
+  margin-right: 20px;
+  padding: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  color: rgb(62, 62, 68);
+}
+.todos__btn:last-of-type {
+  margin: 0;
+}
+@media (max-width: 450px) {
+  .todos__btn {
+    margin-bottom: 15px;
+  }
+}

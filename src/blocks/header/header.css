@@ -1,0 +1,14 @@
+.header {
+  width: 100%;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.2;
+  padding: 0;
+}
+@media (max-width: 515px) {
+  .header {
+    margin-bottom: 20px;
+  }
+}

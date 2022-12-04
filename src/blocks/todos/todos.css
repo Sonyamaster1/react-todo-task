@@ -1,0 +1,11 @@
+.todos {
+  margin: 0 auto;
+  padding: 60px 70px;
+  border: 2px #bc9376 solid;
+  border-radius: 30px;
+}
+@media (max-width:686px) {
+  .todos{
+    padding: 30px 40px;
+  }
+}

@@ -1,0 +1,13 @@
+.todos__container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.todos__container:last-of-type {
+  margin: 0;
+}
+@media (max-width: 686px) {
+  .todos__container {
+    flex-direction: column;
+  }
+}
